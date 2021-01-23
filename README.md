@@ -17,3 +17,5 @@ You can join my Discord server (French-speaking community) here:
 [![Discord](https://img.shields.io/discord/268838260153909249?label=Chat&logo=Discord&style=for-the-badge)](https://discord.gg/mxZvun4)
 
 We will discuss projects, programming or various topics. 👍
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganCaron&theme=dark&layout=compact)
