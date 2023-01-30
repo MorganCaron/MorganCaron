@@ -6,6 +6,7 @@ You can support my work financially by [becoming a sponsor](https://github.com/s
 
 You can join my Discord server (French-speaking community) here:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morgancaron/)
 [![Discord](https://img.shields.io/discord/268838260153909249?label=Chat&logo=Discord&style=for-the-badge)](https://discord.gg/mxZvun4)
 
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MorganCaron&theme=github_dark&layout=compact) | ![](https://github-readme-stats.vercel.app/api?username=MorganCaron&show_icons=true&theme=github_dark&line_height=20) |
